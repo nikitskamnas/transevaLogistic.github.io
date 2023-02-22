@@ -1,0 +1,21 @@
+
+.quote{
+    background: var(--color-primary);
+    padding: 8px 20px;
+    margin-left: -1px;
+    border-radius: 4px;
+    color: #f8f4f4;
+} 
+.get-a-quote{
+    background: var(--color-primary);
+    padding: 8px 20px;
+    margin-left: 30px;
+    border-radius: 4px;
+    color: #fff;
+  }
+
+  .get-a-quote:hover,
+  .get-a-quote:focus:hover {
+    color: #fff;
+    background: #2756ff;
+  }
